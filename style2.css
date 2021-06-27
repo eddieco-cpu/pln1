@@ -1,0 +1,24 @@
+body {
+  background-color: #ccc;
+}
+
+body div {
+  width: 90%;
+  background-color: white;
+  margin: 60 auto;
+  padding: 20px;
+}
+
+p {
+  color: orange;
+  line-height: 2;
+  width: 80%;
+  margin: 30px;
+}
+
+h3 {
+  color: blueviolet;
+  text-align: center;
+  margin: 30px;
+}
+/*# sourceMappingURL=style2.css.map */

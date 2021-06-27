@@ -1,0 +1,10 @@
+div{
+    width: 90%;
+    background-color: #ccc;
+    margin: 60px auto;
+}
+p{
+    width: 80%;
+    line-height: 2;
+    color:orange;
+}
